@@ -6,5 +6,5 @@
 #1. install the necessary module
 #2. change the path
 #3. enjoy you jarvis 
-#4. dont forgot to follow its_me_shree_om
-# https://www.instagram.com/its_me_shree_om
+#4. dont forgot to follow me
+# https://www.instagram.com/dev.shreeom
